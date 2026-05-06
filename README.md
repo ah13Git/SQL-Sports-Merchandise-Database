@@ -102,6 +102,6 @@ sports-merchandise-db/
 
 ---
 
-## 👤 Author
+## 👤 Ayman Hasan 2026
 
 Created as a final school project.
